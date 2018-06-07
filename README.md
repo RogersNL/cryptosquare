@@ -8,10 +8,19 @@
 
 _This website was created to convert sentences to cryptic square code.
 Specs:
-1. The program checks whether or not the number is between 1 - 3999
-  Example input: 3555
-  Example output: true
+1. Determine size of string without spaces.
+  Example input: "Hello world this is a computer"
+  Example output: 25
 
+2. Determine the smallest size grid closest to a square.
+  Example input: 28 characters
+  Example output: 6 x 5 grid
+
+3. Split the string every "#ofrows" places.
+  Example input: # of rows = 6
+  Example output: Hellow,orldth, etc..
+
+4.
 _
 
 ## Setup/Installation Requirements
