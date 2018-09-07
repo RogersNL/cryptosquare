@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website was created to convert sentences to cryptic square code.
+_This website was created to convert sentences to cryptic square code._
 Specs:
 1. Determine size of string without spaces.
   Example input: "Hello world this is a computer"
@@ -20,12 +20,10 @@ Specs:
   Example input: # of rows = 6
   Example output: Hellow,orldth, etc..
 
-4.
-_
-
 ## Setup/Installation Requirements
 
-* _Double click the icon in your folder_
+* _Clone Repository_
+* _Open index.html_
 
 ## Known Bugs
 
