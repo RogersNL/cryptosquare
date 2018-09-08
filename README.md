@@ -7,7 +7,10 @@
 ## Description
 
 _This website was created to convert sentences to cryptic square code._
-Specs:
+
+Sentences are converted to cryptosquare code by arranging the letters in the table and then sectioning off letters in groups of 5 vertically.
+
+## Specs  
 1. Determine size of string without spaces.
   Example input: "Hello world this is a computer"
   Example output: 25
